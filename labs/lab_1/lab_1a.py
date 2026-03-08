@@ -11,6 +11,7 @@ def main():
     name = "Maxime Sobrier" # TODO: Insert your name between the double quotes
 
     print(f"{name}, Welcome to the CSS course!")
+    
 
     print("It's great to see you here!")
 
