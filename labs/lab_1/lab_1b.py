@@ -1,4 +1,4 @@
-"""
+"""TEST
 lab_1b.py
 
 This is a script that implements a simple calculator. It takes two numbers and an operation,
